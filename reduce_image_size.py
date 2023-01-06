@@ -3,6 +3,7 @@ import sys
 
 from PIL import Image
 
+
 def main(images_directory_path):
     print("compressing images in ", images_directory_path, "...")
 
